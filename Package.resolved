@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "corvus-json-schema-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/corvus-dotnet/corvus-json-schema-swift",
+      "state" : {
+        "revision" : "7dab9704d4667b584485dfb1d41354b5dde3d38c",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
